@@ -1,6 +1,10 @@
 # Udacity Front End Nanodegree - Travel App Project
 
 This **Travel App Project** source code is submitted to [Udacity](https://www.udacity.com/ "Udacity") for reviewing purposes.
+## Prerequisites
+- Node.js v22.13.1 (or later)
+- npm (compatible with Node.js v22.13.1)
+
 
 ## 1. Project Summary
 
